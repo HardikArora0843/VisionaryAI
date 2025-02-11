@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import {assets, plans} from '../assets/assets.js'
+import {assets, plans} from '../../public/assets/assets'
 import {AppContext} from '../context/AppContext'
 import {motion} from 'framer-motion'
 import { useNavigate } from 'react-router-dom'

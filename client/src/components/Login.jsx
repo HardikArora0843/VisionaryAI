@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import { assets } from '../assets/assets'
+import { assets } from '../../public/assets/assets'
 import { AppContext } from '../context/AppContext'
 import {motion} from 'framer-motion'
 import axios from 'axios'

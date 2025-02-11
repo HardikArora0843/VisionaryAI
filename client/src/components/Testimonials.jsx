@@ -1,5 +1,5 @@
 import React from 'react'
-import {testimonialsData, assets } from '../assets/assets'
+import {testimonialsData, assets } from '../../public/assets/assets'
 import {motion} from 'framer-motion'
 
 const Testimonials = () => {
